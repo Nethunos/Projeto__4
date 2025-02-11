@@ -16,5 +16,10 @@
     "url": "https://github.com/Nethunos/Projeto__4/issues"
   },
   "homepage": "https://github.com/Nethunos/Projeto__4#readme",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^5.1.0",
+    "sass": "^1.56.1"
+  }
 }
